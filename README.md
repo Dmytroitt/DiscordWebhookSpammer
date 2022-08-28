@@ -3,3 +3,14 @@
 
 This is a simple discord webhook spammer, also works for guilded gg!
 
+# Usage 
+
+before, this module requires python3 requests module, you can install it by:
+
+```bash
+$ pip install requests
+```
+
+now execute the program and fill the lines:
+
+![]()
