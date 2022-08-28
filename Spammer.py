@@ -20,7 +20,7 @@ print("""
 ▌▖▌▞▀▖▛▀▖▛▀▖▞▀▖▞▀▖▌▗▘ ▞▀▘▛▀▖▝▀▖▛▚▀▖▛▚▀▖▞▀▖▙▀▖
 ▙▚▌▛▀ ▌ ▌▌ ▌▌ ▌▌ ▌▛▚  ▝▀▖▙▄▘▞▀▌▌▐ ▌▌▐ ▌▛▀ ▌
 ▘ ▘▝▀▘▀▀ ▘ ▘▝▀ ▝▀ ▘ ▘ ▀▀ ▌  ▝▀▘▘▝ ▘▘▝ ▘▝▀▘▘
-By: github.com/Dmytroit
+By: github.com/Dmytroitt
 """)
 
 url = str(input("Webhook url: "))
